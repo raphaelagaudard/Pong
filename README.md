@@ -4,7 +4,6 @@
 * [Info](#info)
 * [Tecnologia](#technologia)
 * [Observações](#observaçoes)
-* [Demonstração] (#demonstraçao)
 
 ## Info
 O projeto foi um desafio da Alura , onde o intuito era desenvolver o primeiro jogo lucrativo da história, um jogo de esporte conhecido por **Pong**, que simula um tênis de mesa.
@@ -23,4 +22,4 @@ Foi utilizado o P5 para desenvolver o jogo.
 
 ## Demonstração:
 
-![Demonstração](./https://github.com/raphaelagaudard/alura/blob/main/Pong/Imagem%20pong.png)
+![Demonstração](https://raw.githubusercontent.com/raphaelagaudard/alura/main/Pong/Imagem%20pong.png)
