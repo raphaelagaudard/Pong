@@ -22,4 +22,4 @@ Foi utilizado o P5 para desenvolver o jogo.
 
 ## Demonstração:
 
-![Demonstração](https://raw.githubusercontent.com/raphaelagaudard/alura/main/Pong/Imagem%20pong.png)
+![Demonstração](https://s3.amazonaws.com/alura-start-public/555-Pong-com-P5Js/aula1/aula1.gif)
